@@ -15,7 +15,7 @@
 
 ## 功能
 
-### 格式转换（与格式工厂独立版全对齐）
+### 格式转换
 - 文档：md / html / txt / csv / docx / rtf 互转
 - 图片 17 种：jpg / png / webp / bmp / gif / tiff / ico / tga / qoi / jp2 / ppm / pcx / sgi / xbm 等
 - 数据：json / yaml / csv / xml / toml / properties / yml 互转；配置：json / env / ini 互转
@@ -24,7 +24,7 @@
   同容器优先快封（`-c copy`），失败自动回退重编码；目标重名自动加序号
 - 加密音乐解密：ncm / kgm / kgma / vpr / qmc0·qmc3·qmcflac·qmcogg / mflac / mgg
 
-### 截图（与截图独立版同源）
+### 截图
 - 区域截图（就地蒙层：拖框 → 标注 → Enter 存并进剪贴板 / Esc 取消）、全屏截图、窗口截图
 - **滚动长图**：和区域截图一样先**拖框选一块可滚动区域**，工具自动滚屏并拼接
   （等画面静止再收帧、自动裁掉固定底栏防条纹、按上次步长对齐）

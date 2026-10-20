@@ -3,7 +3,7 @@
 **五合一 Windows 桌面工具箱**：格式转换 / 批量改名 / 视频下载 / 压缩解压 / 截图，外加一页系统工具。
 一个窗口里把常用小工具做完；除视频下载与联网更新外全部离线可用。注:该软件为100%AI
 
-当前版本：**v2.0.27**（2026-10-20）· Windows 10 / 11（64 位）
+当前版本：**v2.0.28**（2026-10-20）· Windows 10 / 11（64 位）
 
 > **v2.0 起软件换成 Flutter 新版外壳**——同一套工具、同一个安装位置、同样的保存目录与热键习惯。
 > 旧版 v1.45（tkinter 外壳）仍在历史 Release 可下载。
@@ -60,11 +60,11 @@
 
 ## 全局热键（默认键位；都可以在「截图」页点按键修改）
 - `Ctrl+Alt+A` 区域截图（就地蒙层：拖框 / Enter 确认 / Esc 取消）
-- `Ctrl+Alt+5` 全屏截图 · `Ctrl+Alt+6` 取色器 · `Ctrl+Alt+7` 贴图最近一张
+- `Ctrl+Alt+5` 全屏截图 · `Ctrl+Alt+6` 取色器 · `Ctrl+Alt+7` 贴图最近一张 · `Ctrl+Alt+G` 滚动截图
 - 旧版截图工具同时在跑时，被占的键会如实显示“被占用”并让位。
 
 ## 下载
-到 [Releases](../../releases/latest) 下载最新的 `771Toolbox_payload_v2.0.27.zip`，
+到 [Releases](../../releases/latest) 下载最新的 `771Toolbox_payload_v2.0.28.zip`，
 解压后双击 `qqy_toolbox_ui.exe` 即用（免安装；整个文件夹拷贝走即可，别漏 `引擎\`）。
 
 - `version_ui.json` / `version_ui.json.sig`：新版的自动更新清单与签名；

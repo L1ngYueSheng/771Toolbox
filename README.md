@@ -3,7 +3,7 @@
 **五合一 Windows 桌面工具箱**：格式转换 / 批量改名 / 视频下载 / 压缩解压 / 截图，外加一页系统工具。
 一个窗口里把常用小工具做完；除视频下载与联网更新外全部离线可用。注:该软件为100%AI
 
-当前版本：**v2.0.25**（2026-10-20）· Windows 10 / 11（64 位）
+当前版本：**v2.0.26**（2026-10-20）· Windows 10 / 11（64 位）
 
 > **v2.0 起软件换成 Flutter 新版外壳**——同一套工具、同一个安装位置、同样的保存目录与热键习惯。
 > 旧版 v1.45（tkinter 外壳）仍在历史 Release 可下载。
@@ -27,6 +27,7 @@
   Huffyuv / Ut Video / MagicYUV 等；同容器优先快封（`-c copy`），失败自动回退重编码；目标重名自动加序号
 - 字幕：srt / ass / ssa / vtt 互转；字幕以 mov_text 字幕轨嵌入 MP4
 - 图像序列：视频导出 PNG / JPG 序列；图片序列合成视频（序号断档会明确报错）
+- 滚动长图：拖框后按 Enter 开始滚动，点控制条「完成」或按 Esc 可随时停下并保存当前长图
 - 加密音乐解密：ncm / kgm / kgma / vpr / qmc0·qmc3·qmcflac·qmcogg / mflac / mgg
 
 ### 截图
@@ -63,7 +64,7 @@
 - 旧版截图工具同时在跑时，被占的键会如实显示“被占用”并让位。
 
 ## 下载
-到 [Releases](../../releases/latest) 下载最新的 `771Toolbox_payload_v2.0.25.zip`，
+到 [Releases](../../releases/latest) 下载最新的 `771Toolbox_payload_v2.0.26.zip`，
 解压后双击 `qqy_toolbox_ui.exe` 即用（免安装；整个文件夹拷贝走即可，别漏 `引擎\`）。
 
 - `version_ui.json` / `version_ui.json.sig`：新版的自动更新清单与签名；
